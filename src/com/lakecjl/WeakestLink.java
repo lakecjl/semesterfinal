@@ -1,3 +1,5 @@
+package com.lakecjl;
+
 import java.util.Random;
 import java.util.Scanner;
 // 0 is wrong 1 is right
